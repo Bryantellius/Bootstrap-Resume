@@ -1,0 +1,16 @@
+.card {
+    height: 550px;
+}
+
+span.badge {
+    position: relative;
+    float: right;
+}
+
+.card, #accordion, .jumbotron, ul{
+    box-shadow: 0 2px 4px black;
+}
+
+.cardL>.card-header:hover {
+    background-color: lightgrey;
+}
